@@ -1,0 +1,431 @@
+{
+  "original_transcription": "prompt_transcription.txt",
+  "hits_json": "top3_matches_20260910_225051.json",
+  "canonical_cast_file": "canonical_cast.json",
+  "canonical_cast_names": [
+    "Amanda",
+    "Casey",
+    "Rachel",
+    "Jaime",
+    "Lincoln1",
+    "ZEKE",
+    "CHARLIE",
+    "DESI"
+  ],
+  "timestamp": "20260910_231159",
+  "drafts": [
+    {
+      "title": "Wednesday's Reflection",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "draft": "Amanda sits alone in her office, looking through old scripts and project notes. The sound of her pens clicking on paper fills the space as she ponders the weight of time travel and the complex narratives she's been crafting.",
+      "dialogue": [
+        {
+          "character": "Amanda",
+          "line": "I'm thinking about Wednesday. Wednesday, Project 22.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "I'd like to see that one as 90 minutes as well. Even though I often think of that one as three seasons, too.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "I'm starting to think I just want to do them all as 90 minutes, just some version of it just to keep it all nice and simple and short.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "I mean, it might end up being an AI version anyway, so it probably will be.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "Thursday, pretty much likewise. Let's try a 90 minute version.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "I think Act 1 is Civil War. Act 2 is Jesus. Act 3 is the Holocaust.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "Charlie Manson traveling through time. And there's an overarching battle that he had with Polanski about whether or not he actually did the Tate Lurose crimes.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "There's the warden. So the warden is doing one challenge to Manson and then Polanski would be another chimera in the time space continuum.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Amanda",
+          "line": "And I think the real dramatic tension is whether or not Charlie could get himself out of the mess where maybe he got framed for Tate Lurose. Where Manson, I'm sorry, Polanski is framing Charlie Manson.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        },
+        {
+          "name": "WEDNESDAY",
+          "kind": "addressee",
+          "evidence": "Wednesday, Project 22.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 9,
+      "speaker_count": 1,
+      "canonical_speakers": [
+        "Amanda"
+      ],
+      "visiting_speakers": [],
+      "worst_speaker_run": 9,
+      "dropped_lines": [],
+      "retried": false,
+      "fuzzy_matches": {
+        "Amanda": [
+          "Amanda",
+          1.0
+        ]
+      },
+      "quality_ok": true
+    },
+    {
+      "title": "Timeline Troubles",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "draft": "It's a chaotic day in the office. The team is brainstorming project ideas, with Rachel leading the discussion.",
+      "dialogue": [
+        {
+          "character": "Rachel",
+          "line": "I'm thinking about Wednesday. Wednesday, Project 22. I'd like to see that one as 90 minutes as well.",
+          "cast_type": "canonical",
+          "canonical_match": "Rachel",
+          "match_score": 1.0,
+          "raw_name": "Rachel"
+        },
+        {
+          "character": "Amanda",
+          "line": "Yeah, it's hard to imagine that one being reduced to 90 minutes, actually. Even though I often think of that one as three seasons, too.",
+          "cast_type": "canonical",
+          "canonical_match": "Amanda",
+          "match_score": 1.0,
+          "raw_name": "Amanda"
+        },
+        {
+          "character": "Casey",
+          "line": "All right. So I guess I kind of skipped over that one. I mean, it might end up being an AI version anyway, so it probably will be.",
+          "cast_type": "canonical",
+          "canonical_match": "Casey",
+          "match_score": 1.0,
+          "raw_name": "Casey"
+        },
+        {
+          "character": "Jaime",
+          "line": "Thursday, pretty much likewise. Let's try a 90 minute version. I think Act 1 is Civil War. Act 2 is Jesus. Act 3 is the Holocaust.",
+          "cast_type": "canonical",
+          "canonical_match": "Jaime",
+          "match_score": 1.0,
+          "raw_name": "Jaime"
+        },
+        {
+          "character": "Lincoln1",
+          "line": "Charlie Manson traveling through time. And there's an overarching battle that he had with Polanski about whether or not he actually did the Tate Lobbianca crimes.",
+          "cast_type": "canonical",
+          "canonical_match": "Lincoln1",
+          "match_score": 1.0,
+          "raw_name": "Lincoln1"
+        },
+        {
+          "character": "ZEKE",
+          "line": "The warden is doing one challenge to Manson and then Polanski would be another chimera in the time space continuum. And I think the real dramatic tension is whether or not Charlie could get himself out of the mess.",
+          "cast_type": "canonical",
+          "canonical_match": "ZEKE",
+          "match_score": 1.0,
+          "raw_name": "ZEKE"
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription_1.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 6,
+      "speaker_count": 6,
+      "canonical_speakers": [
+        "Amanda",
+        "Casey",
+        "Jaime",
+        "Lincoln1",
+        "Rachel",
+        "ZEKE"
+      ],
+      "visiting_speakers": [],
+      "worst_speaker_run": 1,
+      "dropped_lines": [],
+      "retried": false,
+      "fuzzy_matches": {
+        "Rachel": [
+          "Rachel",
+          1.0
+        ],
+        "Amanda": [
+          "Amanda",
+          1.0
+        ],
+        "Casey": [
+          "Casey",
+          1.0
+        ],
+        "Jaime": [
+          "Jaime",
+          1.0
+        ],
+        "Lincoln1": [
+          "Lincoln1",
+          1.0
+        ],
+        "ZEKE": [
+          "ZEKE",
+          1.0
+        ]
+      },
+      "quality_ok": true
+    },
+    {
+      "title": "The Empty Store",
+      "themes_used": [
+        "historical impact",
+        "moral consequences"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "Charlie stands outside an old 99 cent store, lost in thought. He looks around at the empty shelves and broken glass, a stark contrast to the vibrant neighborhood around him.",
+      "dialogue": [
+        {
+          "character": "CHARLIE",
+          "line": "Yo, yeah back to photographing reference stall of your good shit.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I walked into that empty 99 cent store one time. Well I almost did.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I don't know. The door was unlocked and I thought, oh there's a set.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I was by myself and I was thinking, man there's no lights.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Not only that but I might get locked in. Anything could happen.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Not to mention it may have been illegal or something.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But there was barely anybody there. Seems like I could walk in here for a little while.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "That looks kind of fun. I mean even just for the physicality of the space and everything.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Even if I don't pay anybody, I guess that was a little bit cranky. I don't really want to promote this neighborhood.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But why not? What I'm interested in is the public transit and the general temperature and climate and safety.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "The bus stop. There's more things I'm interested in.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I mean I'm kind of a dick. But I mean try being me for a few decades.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Jesus Christ. I'm not even kidding. I mean try being me for a few decades and see if you don't come out a little bit fucking angry.",
+          "cast_type": "canonical",
+          "canonical_match": "CHARLIE",
+          "match_score": 1.0,
+          "raw_name": "CHARLIE"
+        }
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I walked into that empty 99 cent store one time.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 13,
+      "speaker_count": 1,
+      "canonical_speakers": [
+        "CHARLIE"
+      ],
+      "visiting_speakers": [],
+      "worst_speaker_run": 13,
+      "dropped_lines": [],
+      "retried": false,
+      "fuzzy_matches": {
+        "CHARLIE": [
+          "CHARLIE",
+          1.0
+        ]
+      },
+      "quality_ok": true
+    }
+  ]
+}
